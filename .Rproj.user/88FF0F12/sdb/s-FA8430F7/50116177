@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Redaction-Projet\"\noutput:\n  html_document:\n    toc: true\n---\n\n# Présentation du projet\n\n\n\n\n\n",
+    "created" : 1490896162639.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3088487364",
+    "id" : "50116177",
+    "lastKnownWriteTime" : 1490896276,
+    "last_content_update" : 1490896276439,
+    "path" : "~/Common/Projet-Package.Rmd",
+    "project_path" : "Projet-Package.Rmd",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
